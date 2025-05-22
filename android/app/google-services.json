@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "878778908300",
+    "project_id": "shoptest-eacc5",
+    "storage_bucket": "shoptest-eacc5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878778908300:android:41df5478b350651c3a85a9",
+        "android_client_info": {
+          "package_name": "com.example.test_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnz_Gh3-to5Rfcq5CV0_3ED5vVxpf7YBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

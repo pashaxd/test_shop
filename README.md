@@ -42,7 +42,7 @@ lib/
 
 ## Скачать APK
 
-[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen)](https://github.com/pashaxd/test_shop/apk/app-release.apk)  
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen)]((https://github.com/pashaxd/test_shop/raw/refs/heads/main/apk/app-release.apk))
 **или**  
 📲 Скачать последнюю версию: [app-release.apk](https://github.com/pashaxd/test_shop/apk/app-release.apk)
 

@@ -36,7 +36,23 @@ lib/
 │       └── domain/            # Бизнес-логика
 └── main.dart                  # Точка входа в приложение
 ```
+# Test Shop
 
+Мобильное приложение для интернет-магазина, разработанное с использованием Flutter и GetX.
+
+## Скачать APK
+
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen)](https://github.com/pashaxd/test_shop/apk/app-release.apk)  
+**или**  
+📲 Скачать последнюю версию: [app-release.apk](https://github.com/pashaxd/test_shop/apk/app-release.apk)
+
+![QR Code для скачивания](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/
+pashaxd/test_shop/apk/app-release.apk)
+
+---
+
+## Описание
+... (остальная часть README остается без изменений)
 ## Установка и запуск
 
 1. Убедитесь, что у вас установлен Flutter SDK
